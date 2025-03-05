@@ -28,7 +28,7 @@ The following endpoints are available for interacting with the Tempinbox API.
       "path": "/message/{ID}",
       "description": "Delete Message Using ID"
 
-Rate limits apply.
+Rate Limits Apply to keep the API available and stable for everyone.
 
 Powered by: https://www.tempinbox.xyz
 
