@@ -1,9 +1,7 @@
 # Tempinbox-Endpoint-API
 API Endpoint for Tempinbox.xyz - Free Temp Mail Service API
 
-
-  "header": "Tempinbox API - Available Endpoints",
-  "description": "The following endpoints are available for interacting with the Tempinbox API.",
+The following endpoints are available for interacting with the Tempinbox API.
 
  
       "method": "GET",
